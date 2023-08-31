@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "bard",
+  "version": "0.1.1",
+  "description": "AI-powered chat-bot created by Google",
+  "main": "main.js",
+  "author": "BlueDruddigon <bluedruddigon@github.com>",
+  "homepage": "https://github.com/BlueDruddigon/bard-gpt.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-builder --linux"
+  },
+  "devDependencies": {
+    "electron": "^26.1.0",
+    "electron-builder": "^24.6.3",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  }
+}

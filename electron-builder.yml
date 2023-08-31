@@ -1,0 +1,9 @@
+appId: com.blued.bard
+productName: BardGPT
+copyright: Copyright © 2023 BlueDruddigon
+publish: null
+linux:
+  target: pacman
+  icon: icon.icns
+  maintainer: BlueDruddigon
+  category: Utility
